@@ -1,0 +1,12 @@
+.default_nav{
+    background: #fff;
+    margin-bottom: 0;
+    border-color: #e7e7e7;
+    box-shadow: 0 4px 2px -2px #ddd;
+    z-index: 9;
+    border-width: 0 0 1px;
+    position: sticky;
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+}
